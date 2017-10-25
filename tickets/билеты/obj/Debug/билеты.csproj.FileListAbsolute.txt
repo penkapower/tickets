@@ -1,0 +1,64 @@
+c:\users\roman\documents\visual studio 2015\Projects\билеты\билеты\bin\Debug\билеты.exe
+c:\users\roman\documents\visual studio 2015\Projects\билеты\билеты\bin\Debug\билеты.pdb
+c:\users\roman\documents\visual studio 2015\Projects\билеты\билеты\obj\Debug\билеты.Form1.resources
+c:\users\roman\documents\visual studio 2015\Projects\билеты\билеты\obj\Debug\билеты.Properties.Resources.resources
+c:\users\roman\documents\visual studio 2015\Projects\билеты\билеты\obj\Debug\билеты.csproj.GenerateResource.Cache
+c:\users\roman\documents\visual studio 2015\Projects\билеты\билеты\obj\Debug\билеты.exe
+c:\users\roman\documents\visual studio 2015\Projects\билеты\билеты\obj\Debug\билеты.pdb
+c:\users\roman\documents\visual studio 2015\Projects\билеты\билеты\obj\Debug\билеты.Form2.resources
+c:\users\roman\documents\visual studio 2015\Projects\билеты\билеты\obj\Debug\билеты.csprojResolveAssemblyReference.cache
+F:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.exe
+F:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.pdb
+F:\курсовая кпяп\билеты\билеты\bin\Debug\билеты.exe
+F:\курсовая кпяп\билеты\билеты\bin\Debug\билеты.pdb
+F:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.csprojResolveAssemblyReference.cache
+F:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.Form1.resources
+F:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.Form2.resources
+F:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.Properties.Resources.resources
+F:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.csproj.GenerateResource.Cache
+G:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.exe
+G:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.pdb
+G:\курсовая кпяп\билеты\билеты\bin\Debug\билеты.exe
+G:\курсовая кпяп\билеты\билеты\bin\Debug\билеты.pdb
+G:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.csprojResolveAssemblyReference.cache
+G:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.Form1.resources
+G:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.Form2.resources
+G:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.Properties.Resources.resources
+G:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.csproj.GenerateResource.Cache
+J:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.exe
+J:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.pdb
+J:\курсовая кпяп\билеты\билеты\bin\Debug\билеты.exe
+J:\курсовая кпяп\билеты\билеты\bin\Debug\билеты.pdb
+J:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.csprojResolveAssemblyReference.cache
+J:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.Form1.resources
+J:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.Form2.resources
+J:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.Properties.Resources.resources
+J:\курсовая кпяп\билеты\билеты\obj\Debug\билеты.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.exe
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.pdb
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\bin\Debug\билеты.exe
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\bin\Debug\билеты.pdb
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.Form1.resources
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.Form2.resources
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.Properties.Resources.resources
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.Form3.resources
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.Form4.resources
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.Form5.resources
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.Form6.resources
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.Form7.resources
+C:\Users\user\Desktop\КПиЯП\билеты\билеты\obj\Debug\билеты.csproj.GenerateResource.Cache
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.exe
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.pdb
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\bin\Debug\билеты.exe
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\bin\Debug\билеты.pdb
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.csprojResolveAssemblyReference.cache
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.Form1.resources
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.Form2.resources
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.Properties.Resources.resources
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.Form3.resources
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.Form4.resources
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.Form5.resources
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.Form6.resources
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.Form7.resources
+D:\Roman\Учеба\ПТУ\Много чего\1\12\трпо\билеты\билеты\obj\Debug\билеты.csproj.GenerateResource.Cache
